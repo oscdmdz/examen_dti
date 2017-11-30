@@ -1,1 +1,1 @@
-web: gunicorn examen-dti.wsgi --log-file -
+web: gunicorn examen_dti.wsgi --log-file -
